@@ -1,0 +1,1 @@
+{"jobID":"bacf30b6-27e0-a659-8288-2051803f3a88","spec":{"type":"policy","cause":{"Message":"","User":"Akshay Deshpande \u003cakshay.deshpande@riskident.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
