@@ -23,6 +23,9 @@ spec:
         env:
           - name: GREETING
             value: "Warm greetings from ..."
+          - name: GREETING2
+            value: "Warm greetings 2 from ..."
+
         name: sample-app
         ports:
         - containerPort: 8080
