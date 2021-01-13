@@ -24,7 +24,7 @@ spec:
           - name: GREETING
             value: "Warm greetings from argocd"
           - name: GREETING2
-            value: "Warm greetings 2 from argo"
+            value: "Warm greetings 2 from argocd"
 
         name: sample-app
         ports:
