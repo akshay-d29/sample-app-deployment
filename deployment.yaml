@@ -22,7 +22,7 @@ spec:
         image: gitopsbook/sample-app:v0.2
         env:
           - name: GREETING
-            value: "Warm greetings from ..."
+            value: "Warm greetings from argocd"
           - name: GREETING2
             value: "Warm greetings 2 from argo"
 
